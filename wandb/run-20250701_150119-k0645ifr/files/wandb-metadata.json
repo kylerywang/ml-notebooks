@@ -1,0 +1,38 @@
+{
+  "os":  "macOS-14.0-arm64-arm-64bit",
+  "python":  "3.12.1",
+  "startedAt":  "2025-07-01T22:01:19.767564Z",
+  "program":  "/Users/kylerwang/code/projects/ml-notebooks/lora_tutorial.ipynb",
+  "git":  {
+    "remote":  "https://github.com/kylerywang/ml-notebooks.git",
+    "commit":  "580e2e4d0b7ca891bbcccc6c37571d803390b214"
+  },
+  "email":  "kyler.y.wang@gmail.com",
+  "root":  "/Users/kylerwang/code/projects/ml-notebooks",
+  "host":  "Kylers-MacBook-Pro.local",
+  "username":  "kylerwang",
+  "executable":  "/usr/local/bin/python3",
+  "codePathLocal":  "lora_tutorial.ipynb",
+  "cpu_count":  12,
+  "cpu_count_logical":  12,
+  "disk":  {
+    "/":  {
+      "total":  "994662584320",
+      "used":  "658556116992"
+    }
+  },
+  "memory":  {
+    "total":  "17179869184"
+  },
+  "cpu":  {
+    "count":  12,
+    "countLogical":  12
+  },
+  "apple":  {
+    "name":  "Apple M2 Pro",
+    "ecpuCores":  4,
+    "pcpuCores":  8,
+    "gpuCores":  19,
+    "memoryGb":  16
+  }
+}
